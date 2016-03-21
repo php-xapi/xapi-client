@@ -5,6 +5,8 @@ Xabbuh xApi Client
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/php-xapi/xapi-client/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/php-xapi/xapi-client/?branch=master)
 [![Code Coverage](https://scrutinizer-ci.com/g/php-xapi/xapi-client/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/php-xapi/xapi-client/?branch=master)
 
+> **CAUTION**: This package is not maintained anymore. Please use [php-xapi/client](https://github.com/php-xapi/client) instead which provides the same features.
+
 Client side PHP implementation of the
 [Experience API](https://github.com/adlnet/xAPI-Spec/blob/master/xAPI.md).
 
